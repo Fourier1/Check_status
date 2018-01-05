@@ -22,11 +22,11 @@
    ./execute_verify_statusCode.py -u www.exemple.com -p ?(https/http)
 
 #    Aide
-===============
- la commande est a la disposition de tous ceux qui desir utiliser , ameliorer merci.
+
+  la commande est a la disposition de tous ceux qui desir utiliser , ameliorer merci.
  
 # AUTEUR
-=====================
+
   - Nom: Konan Saint Fourier Onesyle
   - Fonction: Développeur / Informaticien
   - Mail: fouriersaint@gmail.com
