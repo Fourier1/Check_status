@@ -27,10 +27,10 @@
  
 # AUTEUR
 =====================
-  Nom: Konan Saint Fourier Onesyle
-  Fonction: Développeur / Informaticien
-  Mail: fouriersaint@gmail.com
-  Contact: (+225) 71 160 202
+  - Nom: Konan Saint Fourier Onesyle
+  - Fonction: Développeur / Informaticien
+  - Mail: fouriersaint@gmail.com
+  - Contact: (+225) 71 160 202
    
    
 
