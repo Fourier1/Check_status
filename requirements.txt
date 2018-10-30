@@ -19,8 +19,6 @@ python-dateutil==2.6.1
 python-twitter==3.3
 pytz==2017.3
 PyYAML==3.12
-requests==2.5.3
-requests-oauthlib==0.4.2
 six==1.11.0
 SpeechRecognition==3.8.1
 SQLAlchemy==1.1.15
